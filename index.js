@@ -1,5 +1,5 @@
 const Conflict = () => {
-    console.log("Make Some Conflict")
+    console.log("Make Some Conflict in Dev")
 }
 
 Conflict()
